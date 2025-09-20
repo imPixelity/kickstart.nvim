@@ -540,6 +540,7 @@ require('lazy').setup({
         end,
       })
 
+      -- continue here
       -- Diagnostic Config
       -- See :help vim.diagnostic.Opts
       vim.diagnostic.config {
